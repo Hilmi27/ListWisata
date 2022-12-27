@@ -1,9 +1,9 @@
 # flutter_application_4
 
-Tempat Wisata Temanggung
+Tempat Wisata Salatiga
 
-Created by Widigda Rahmamukti
-- NIM : 3.34.21.1.24
+Created by Hilmi Putra Dwi Suryono Muhammad
+- NIM : 3.34.21.1.12
 - Kelas : IK-2B
 - Angkatan : 2021
 
