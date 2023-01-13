@@ -7,7 +7,7 @@ Created by Hilmi Putra Dwi Suryono Muhammad
 - Kelas : IK-2B
 - Angkatan : 2021
 
-![Screenshot_1668065662](https://user-images.githubusercontent.com/117274670/201028172-57a11538-70d0-4df2-a515-3c857178cea0.png)
+![image](https://user-images.githubusercontent.com/84674938/212345661-c1cdeab7-1daf-421c-ad43-6b2e57cccb5b.png)
 
 This project is a starting point for a Flutter application.
 
