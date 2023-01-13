@@ -1,6 +1,6 @@
 # flutter_application_4
 
-Tempat Wisata Temanggung
+Tempat Wisata Salatiga
 
 Created by Hilmi Putra Dwi Suryono Muhammad
 - NIM : 3.34.21.1.12
