@@ -61,13 +61,13 @@ flutter:
 
   # To add assets to your application, add an assets section, like this:
   assets:
-     - images/posong.jpg
-     - images/sindoro.jpg
-     - images/embung.jpg
-     - images/pringapus.jpg
-     - images/bansari.jpg
-     - images/titang.jpg
-     - images/kledung.jpg
+     - images/saloka.jpg
+     - images/sjy1.jpg
+     - images/pancasila.jpg
+     - images/tamkot.jpg
+     - images/pendem.jpg
+     - images/rawapening.jpg
+     - images/telomoyo.jpg
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware

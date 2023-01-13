@@ -1,14 +1,13 @@
 # flutter_application_4
 
-Tempat Wisata Salatiga
+Tempat Wisata Temanggung
 
-Created by Hilmi Putra Dwi Suryono Muhammad
-- NIM : 3.34.21.1.12
+Created by Widigda Rahmamukti
+- NIM : 3.34.21.1.24
 - Kelas : IK-2B
 - Angkatan : 2021
 
-![Screenshot_20230113_092926](https://user-images.githubusercontent.com/84674938/212346080-14da884c-fcbb-411d-8f2f-bf229113f802.png)
-
+![Screenshot_1668065662](https://user-images.githubusercontent.com/117274670/201028172-57a11538-70d0-4df2-a515-3c857178cea0.png)
 
 This project is a starting point for a Flutter application.
 

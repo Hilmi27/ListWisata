@@ -22,104 +22,108 @@ class TempatWisata {
 
 var tourismPlaceList = [
   TempatWisata(
-    name: 'Posong',
-    goal: 'Alam',
+    name: 'Taman Kota Salatiga',
+    goal: 'Taman',
     description:
-        'Kawasan wisata Posong merupakan kawasan wisata yang dihapit oleh kedua gunung, yaitu Sindoro dan Sumbing, Tepatnya berada di ketinggian 1.823 meter di atas permukaan laut. Gak heran kalau udara di wisata Posong sangat sejuk. Di Posong, kamu bisa melihat pemandangan Gunung Sindoro dan Sumbing, apalagi kalau cuaca sedang cerah. Nah, buat kamu yang berencana liburan ke sini.',
+        '''Salatiga City Park atau Taman Kota Salatiga Bendolsari merupakan Ruang Terbuka Hijau (RTH) yang punya fasilitas cukup lengkap. 
+Ada taman bermain, kandang burung, dan taman lalu lintas yang bisa dimanfaatkan pengunjung, termasuk anak-anak. Taman ini juga dilengkapi bangku-bangku sebagai tempat bersantai.
+Letaknya ada di kawasan Kota Salatiga, tepatnya ada di Kumpulrejo, Kecamatan Argomulyo, Kota Salatiga, Jawa Tengah.''',
     openDays: 'Buka Setiap Hari',
-    openTime: '24 jam',
-    ticketPrice: 'Rp 20.000',
-    imageAsset: 'images/posong.jpg',
+    openTime: '08.00 - 17.30',
+    ticketPrice: 'Rp 2.000',
+    imageAsset: 'images/tamkot.jpg',
     imageUrls: [
-      'https://th.bing.com/th/id/OIP.pCOJPUQv-FUReV1yHEhgfQHaDw?pid=ImgDet&rs=1',
-      'https://suara-pembaruan.com/wp-content/uploads/2021/04/Eksotisme-Wisata-Alam-Posong-Keindahan-Di-Antara-Gunung-Sindoro-Sumbing.jpg',
-      'https://indonesiatraveler.id/wp-content/uploads/2020/05/Wisata-Alam-posong3-photo-by-indoflashlight-768x576.jpg',
+      'https://www.google.com/url?sa=i&url=https%3A%2F%2Fnews.detik.com%2Fberita-jawa-tengah%2Fd-4579051%2Flelah-nyetir-pemudik-bisa-rehat-di-taman-kota-jalan-lingkar-salatiga&psig=AOvVaw1NxCIWAIGAfPjsrMrETsAZ&ust=1672231510430000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMC2w_vpmfwCFQAAAAAdAAAAABAE',
+      'https://idntrip.com/wp-content/uploads/taman-kota-salatiga-1.jpg',
+      'https://awsimages.detik.net.id/community/media/visual/2019/06/08/77e91d30-cfe4-4401-b682-719dcbd49946_169.jpeg?w=620',
     ],
   ),
   TempatWisata(
-    name: 'Sindoro-Sumbing',
-    goal: 'Pendakian',
+    name: 'Rawa Pening',
+    goal: 'Rawa',
     description:
-        'Gunug sindoro dan sumbing merupakan Tujuan pada pendaki seluruh nusantara karena pemandangan dan alamnya masih terjaga, gunug sindoro dan sumbing sering juga disebut gunug kembar karena letaknya berdampingan di kabupaten yang sama.',
+        '''Danau Rawa Pening juga menjadi destinasi yang sering dikunjungi warga Salatiga. Dengan luas lebih dari 2.670 hektar, ada banyak tempat menarik yang bisa Anda kunjungi seperti misalnya Kampoeng Rawa.
+            Tempat wisata favorit keluarga ini menawarkan rumah makan terapung dengan sejumlah wahana menarik seperti ATV dan sepeda air. Tidak sedikit wisatawan yang menjadikan tempat ini sebagai lokasi pernikahan atau kumpul keluarga.
+            Destinasi lain yang juga tak kalah menarik adalah Bukit Cinta Rawa Pening yang sangat instagramable. Dari tempat ini Anda bisa bersantai dan menikmati suasana rawa pening sambil berfoto di spot-spot yang apik.''',
     openDays: ' Buka Setiap Hari',
     openTime: '24 jam',
-    ticketPrice: 'Rp 35.000',
-    imageAsset: 'images/sindoro.jpg',
+    ticketPrice: 'Rp 25.000',
+    imageAsset: 'images/rawapening.jpg',
     imageUrls: [
-      'https://asset.kompas.com/crop/0x0:780x520/750x500/data/photo/2019/02/01/2944321093.jpg',
-      'https://ihategreenjello.com/wp-content/uploads/2019/05/Pos-3-Gunung-Sindoro-@lili_gelasia-BwvjyB3lqq_.jpg',
-      'https://th.bing.com/th/id/OIP.1dA88UtYHX5KbSFBUk584AHaFj?pid=ImgDet&rs=1',
+      'https://i0.wp.com/penginapan.net/wp-content/uploads/nelayan-danau-rawa-pening.jpg?resize=460%2C300&ssl=1',
+      'https://panduanwisata.b-cdn.net/wp-content/uploads/2021/10/Rawa-Pening-Ambarawa.jpg',
+      'https://panduanwisata.b-cdn.net/wp-content/uploads/2021/10/Pemandangan-Sore-di-Rawa-Pening.jpg',
     ],
   ),
   TempatWisata(
-    name: 'Embung Kledung',
+    name: 'Gunung Telomoyo',
     goal: 'Alam',
     description:
-        'Embung kledung merupakan embung yang tidak biasa seperti yang lainya, dikarenakan psosisinya dianatara lembah gunug sindoro dan sumbing, udara yang sejuk serta pemandangan yang indah merupakan faktor utama wisata ini sangat disukai pengunjung',
+        'Saat berkunjung ke sini, Anda bisa menikmati panorama alam yang begitu menawan terutama saat pagi dan sore hari. Tempat ini menjadi favorit wisatawan menyaksikan sunrise atau sunset sembari berkemah. Anda juga dapat mencoba aktivitas lain seperti bermain paralayang atau mengunjungi air terjun yang terlewati. Tiket masuknya pun tidak mahal hanya sekitar Rp15.000,00 dan bisa Anda kunjungi kapanpun.',
     openDays: 'Buka Setiap Hari',
     openTime: '08.00 - 17.00',
     ticketPrice: 'Rp 10.000',
-    imageAsset: 'images/embung.jpg',
+    imageAsset: 'images/telomoyo.jpg',
     imageUrls: [
-      'https://th.bing.com/th/id/R.3f9af09dbf76647161c650c96c1b95fd?rik=Va8mMZzeGgZDYQ&riu=http%3a%2f%2fwww.inibaru.id%2fnuploads%2f1%2fembung+kledung.jpg&ehk=43XgbJNTbHqSrCRbDx3AniwT%2fEq3raq8xAqAxTBeDQ0%3d&risl=&pid=ImgRaw&r=0',
-      'https://cdn-image.hipwee.com/wp-content/uploads/2018/05/hipwee-Wisata-Hits-Embung-Kledung-Temanggung.png',
-      'https://i2.wp.com/travelspromo.com/wp-content/uploads/2019/04/berkemah-camping-di-embung-kledung-640x360.jpg?resize=640%2C360&ssl=1',
+      'https://seringjalan.com/wp-content/uploads/2020/07/enjoy-the-beauty-of-mount-telomoyo-central-java2-82456374d586316c1d377c41f78b36d2.jpg',
+      'https://www.javatravel.net/wp-content/uploads/2021/09/Gunung-Telomoyo.jpg',
+      'https://seringjalan.com/wp-content/uploads/2020/07/telomoyo-44331a25a56d5853e33c8ef2584707df-768x576.jpg',
     ],
   ),
   TempatWisata(
-      name: 'Candi Pringapus',
-      goal: 'situs sejarah',
+      name: 'Senjoyo',
+      goal: 'Pemandian',
       description:
-          'Candi Pringapus adalah candi di desa Pringapus, Ngadirejo, Temanggung 22 Km arah barat laut ibu kota kabupaten Temanggung. Arca-arca berartistik Hindu yang erat kaitanya dengan Dewa Siwa menandakan bahwa Candi Pringapus bersifat Hindu Sekte Siwaistis.',
+          'Tidak jauh dari sisi selatan Kota Salatiga, Anda bisa mengunjungi Mata Air Senjoyo yang terkenal dengan kesegaran airnya. Sumber mata air ini mirip dengan Umbul Manten di Klaten yang bisa Anda jadikan destinasi menarik. Airnya sangat jernih dan segar cocok untuk berenang dan bermain air dengan suasana rindang pepohonan. Tidak hanya itu, di kawasan ini juga terdapat wahana air yang bisa Anda mainkan di danau serta sungai besar di sekitarnya.',
       openDays: 'Buka Setiap Hari',
-      openTime: '07.00 - 17.00',
-      ticketPrice: 'Rp 10.000',
-      imageAsset: 'images/pringapus.jpg',
-      imageUrls: [
-        'https://2.bp.blogspot.com/_F5GsjOu2fYY/SeRGiifpFlI/AAAAAAAAAC4/RlTQFhn7vQY/w1200-h630-p-k-no-nu/candi+pringapus+5.jpg',
-        'https://i.ytimg.com/vi/-msO528Z3g8/maxresdefault.jpg',
-        'https://oomphcdn01.sgp1.digitaloceanspaces.com/files/uploads/contributors/ARTICLE_IMAGE_UGC_710_2020115710_YWe581QHGE.jpg',
-      ]),
-  TempatWisata(
-      name: 'Kledung Park',
-      goal: 'Alam',
-      description:
-          'Kledung Park Temanggung memiliki pesona pemandangan indah 2 gunung yang menjulang. Gunung Sindoro dan Gunung Sumbing menjadi salah satu daya tarik dari tempat ini. Tapi tak hanya itu, Kledung Park menawarkan lebih banyak lagi',
-      openDays: 'Buka Setiap Hari',
-      openTime: '09.00 - 00.00',
-      ticketPrice: 'Rp 20.000',
-      imageAsset: 'images/kledung.jpg',
-      imageUrls: [
-        'https://th.bing.com/th/id/R.bca73136fd33df3e2837278312e50cc2?rik=EvysUji8p8%2fZYA&riu=http%3a%2f%2fwww.dakatour.com%2fwp-content%2fuploads%2f2021%2f07%2falamat-kledung-park-sindoro-coffee-house.jpg&ehk=F7Vc9f24c5RE8xNrI%2fEU2vD0ansa7DJ%2bJcg1613R9xI%3d&risl=&pid=ImgRaw&r=0',
-        'https://i1.wp.com/liburanyuk.co.id/wp-content/uploads/2020/10/kledung-park.jpg?resize=840%2C554&ssl=1',
-        'https://th.bing.com/th/id/OIP.IFc6XqBOm0qvpNrHrj4tagHaFj?pid=ImgDet&rs=1',
-      ]),
-  TempatWisata(
-      name: 'Embung Bansari',
-      goal: 'Alam',
-      description:
-          'Letaknya yang berada di ketinggian 1.300 Mdpl dengan pesona bentang alam luar biasa. Dari atas wisatawan bisa melihat kolam besar dengan Gunung Sindoro yang berdiri gagah di belakangnya. Bahkan ketika cuaca sedang cerah akan terlihat juga delapan gunung di Jawa Tengah. Gunung Sumbing, Merbabu, Merapi, Telomoyo, Prau, Andong, Ungaran hingga Muria. Bahkan ketika malam wisatawan bisa melihat dari kejauhan kerlap-kerlip lampu kapal laut utara Jawa.',
-      openDays: 'Buka Setiap Hari',
-      openTime: '24 jam',
-      ticketPrice: 'Rp 10.000',
-      imageAsset: 'images/bansari.jpg',
-      imageUrls: [
-        'https://travelandword.com/wp-content/uploads/2021/06/wisata-embung-bansari.jpg',
-        'https://www.dakatour.com/wp-content/uploads/2021/06/jam-buka-embung-bansari-temanggung.jpg',
-        'https://petualangmuda.com/wp-content/uploads/2021/04/120329306_219495886270316_7979345256675052120_n-768x960.jpg',
-      ]),
-  TempatWisata(
-      name: 'Curug Titang',
-      goal: 'Alam',
-      description:
-          'Curug Titang berjarak sekitar 6 kilometer dari pusat kota Temanggung dan dapat ditutup dengan kendaraan bermotor dalam jarak sekitar 15 menit. Atau jika Anda kesulitan menemukan air terjun, Anda mungkin dapat mengikuti peta berikut melalui Google Maps: perjalanan ke air terjun dimulai dari daerah pemukiman dan berlanjut melalui sawah dan lembah.',
-      openDays: 'Buka Setiap Hari',
-      openTime: '24 jam',
+      openTime: '24 Jam',
       ticketPrice: 'Rp 5.000',
-      imageAsset: 'images/titang.jpg',
+      imageAsset: 'images/sjy1.jpg',
       imageUrls: [
-        'https://www.cedarcreekcabinrentals.com/hs-fs/hubfs/blue-hole-waterfall-shutterstock_53316892.jpg?width=800&name=blue-hole-waterfall-shutterstock_53316892.jpghttps://www.cedarcreekcabinrentals.com/hs-fs/hubfs/blue-hole-waterfall-shutterstock_53316892.jpg?width=800&name=blue-hole-waterfall-shutterstock_53316892.jpg',
-        'https://i.wnc.io/w1024/2009-12-31_nantahala-highlands_secret-falls.jpg',
-        'https://2.bp.blogspot.com/-OeQJAuxSlo0/WMTbaoCT94I/AAAAAAAAFiU/yYcNGzIqW3MIYZqchLBG2xiwM41KkfuJwCKgB/s400/IMG_20170106_205122.jpg',
+        'https://www.datawisata.com/wp-content/uploads/2018/09/Sendang-Senjoyo-1024x681.jpg',
+        'https://www.datawisata.com/wp-content/uploads/2018/09/Umbul-Senjoyo-1024x768.jpg',
+        'https://www.datawisata.com/wp-content/uploads/2018/09/mata-air-Senjoyo-Salatiga-1024x576.jpg',
+      ]),
+  TempatWisata(
+      name: 'Benteng Pendem',
+      goal: 'Situs Sejarah',
+      description:
+          'Daya tarik utama benteng ini adalah arsitektur bangunan benteng yang sangat instagramable. Terdapat banyak pintu serta jendela yang berjajar rapi mengikuti dinding benteng yang tebal seperti di Lawang Sewu. Tidak sedikit pengunjung yang melakukan sesi pemotretan di sisa reruntuhan benteng ini. Sekarang beberapa bagian benteng telah beralih fungsi menjadi lapas tahanan kelas IIA Ambarawa.',
+      openDays: 'Buka Setiap Hari',
+      openTime: '08.00 - 17.00',
+      ticketPrice: 'Rp 5.000',
+      imageAsset: 'images/pendem.jpg',
+      imageUrls: [
+        'https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2021/04/30/2926879135.jpg',
+        'https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2021/04/30/3347077171.jpg',
+        'https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2021/04/30/2057268020.jpg',
+      ]),
+  TempatWisata(
+      name: 'Saloka',
+      goal: 'Wahana',
+      description:
+          'Tidak jauh dari Goa Rong View Anda juga bisa mampir ke salah satu tempat wisata hits di Semarang, Saloka Theme Park. Taman bermain terbesar di Jawa Tengah ini memiliki lebih dari 25 wahana permainan seru yang bisa Anda coba. Misalnya seperti wahana bianglala atau ferris wheel yang berukuran besar. Selain itu ada pula wahana menantang seperti Roller Coaster Lika Liku dan Adu Nyali yang siap membuat jantung Anda berdegup cepat.',
+      openDays: 'Buka Setiap Hari',
+      openTime: '09.00 - 17.00',
+      ticketPrice: 'Rp 50.000',
+      imageAsset: 'images/saloka.jpg',
+      imageUrls: [
+        'https://cdn.nativeindonesia.com/foto/2020/03/Wahana-Adu-Nyali.jpg',
+        'https://cdn.nativeindonesia.com/foto/2020/03/Kapal-Jenju-1.jpg',
+        'https://cdn.nativeindonesia.com/foto/2020/03/Wahana-Seru-Yang-Ada-di-Saloka-Park.jpg',
+      ]),
+  TempatWisata(
+      name: 'Alun-Alun Pancasila',
+      goal: 'Alun-Alun',
+      description:
+          'Alun-Alun Pancasila berbatasan dengan Kantor Pemkot Salatiga dan Kantor Dewan Perawakilan Rakyat Daerah (DPRD) Kota Salatiga di sisi timur, dan mesjid dan Kampus Institut Agama Islam Negeri (IAIN) Salatiga. Ada pula tugu pahlawan yang menampilkan tiga sosok pahlawan dari Kota Salatiga yakni Brigjen Sudiarto, Laksamana Madya Yosaphat Soedarso (Yos Soedarso), dan Marsekal Muda Agustinus Adisoetjipto yang merupakan bapak penerbangan pertama Indonesia.',
+      openDays: 'Buka Setiap Hari',
+      openTime: '24 jam',
+      ticketPrice: 'Rp 2.000',
+      imageAsset: 'images/pancasila.jpg',
+      imageUrls: [
+        'https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Alun-Alun_Pancasila_Salatiga_%281%29.jpg/1200px-Alun-Alun_Pancasila_Salatiga_%281%29.jpg',
+        'https://cdn2.tstatic.net/tribunjatengtravel/foto/bank/images/alun-alun-pancasila-3.jpg',
+        'https://cdn2.tstatic.net/tribunjatengtravel/foto/bank/images/alun-alun-pancasila-2.jpg',
       ])
 ];
