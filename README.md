@@ -2,12 +2,13 @@
 
 Tempat Wisata Temanggung
 
-Created by Widigda Rahmamukti
-- NIM : 3.34.21.1.24
+Created by Hilmi Putra Dwi Suryono Muhammad
+- NIM : 3.34.21.1.12
 - Kelas : IK-2B
 - Angkatan : 2021
 
-![Screenshot_1668065662](https://user-images.githubusercontent.com/117274670/201028172-57a11538-70d0-4df2-a515-3c857178cea0.png)
+![Screenshot_20230113_092926](https://user-images.githubusercontent.com/84674938/212348621-ef94d8f2-fffb-4c93-a78b-0d32c1124190.png)
+
 
 This project is a starting point for a Flutter application.
 
